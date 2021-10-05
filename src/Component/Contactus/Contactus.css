@@ -1,0 +1,37 @@
+/*----------------
+ contactus style 
+----------------- */
+.conatac-body{
+    background: linear-gradient(90deg,#28c43d,#cdda17);
+    margin-top: -25px;
+}
+
+.textareas{
+    color: #575757;
+    font-size: 14.23px;
+    background-color: #fddead;
+    height: 70px;
+    width: 90%;
+    border-radius: 20px;
+    border: 0;
+    resize: none;
+    margin-right: 10px;
+    
+}
+.textarea{
+    color: #575757;
+    font-size: 14.23px;
+    background-color: #fddead;
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    border: 0;
+    resize: none;
+    padding: 10px 15px;
+    margin-right: 10px;
+    
+}
+.contactus{
+    display: flex;
+    margin-left: 200px;
+}

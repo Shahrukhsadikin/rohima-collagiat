@@ -1,0 +1,17 @@
+.logo{
+    height:75px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
+.header{
+    align-items: center;
+    background: linear-gradient(
+90deg,#28c43d,#cdda17);
+    display: flex;
+}
+.nav-link{
+    margin-left: 400px;
+}
+

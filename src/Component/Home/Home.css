@@ -1,0 +1,10 @@
+.home-body{
+    background: linear-gradient(90deg,#28c43d,#cdda17);
+    /* margin-top: -25px; */
+    
+}
+.home{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+   
+}

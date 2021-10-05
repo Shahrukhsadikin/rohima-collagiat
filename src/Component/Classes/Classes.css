@@ -1,0 +1,10 @@
+.card-body{
+    background: linear-gradient(90deg,#28c43d,#cdda17);
+    margin-top: -25px;
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background: linear-gradient(90deg,#28c43d,#cdda17);
+    border-width: 0px;
+}

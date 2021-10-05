@@ -1,0 +1,22 @@
+.body{
+    background: linear-gradient(
+        90deg,#28c43d,#cdda17);
+}
+.about-part{
+    display: flex;
+    
+    
+}
+.about{
+    text-align: center;
+    margin-top: 50px;
+    padding: 100px;
+}
+.fast-img{
+    height: 500px;
+    width: 400px;
+}
+.welcome-text{
+   
+    color: rgb(223, 47, 16);
+}

@@ -1,0 +1,12 @@
+/*----------------
+ footer style 
+---------------- */
+.footer{
+    background: linear-gradient(
+        90deg,#28c43d,#cdda17);
+        margin-top: -25px;
+}
+.button{
+    background-color: rgb(147, 192, 64);
+    color: black;
+}
